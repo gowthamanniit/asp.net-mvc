@@ -1,0 +1,8 @@
+jquery : 1.7.1.js
+===================
+Install-Package jQuery -Version 1.7.1
+
+
+jquery ui:(1.8.20)
+==========
+Install-Package jQuery.UI.Combined -Version 1.8.20
