@@ -6,3 +6,7 @@ Install-Package jQuery -Version 1.7.1
 jquery ui:(1.8.20)
 ==========
 Install-Package jQuery.UI.Combined -Version 1.8.20
+
+jquery unobtruisve jquery(ajax) 
+=========================
+Install-Package Microsoft.jQuery.Unobtrusive.Ajax -Version 3.2.6
